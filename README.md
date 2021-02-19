@@ -1,4 +1,6 @@
+<!--
 ![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/img/GH_profile.jpg)
+-->
 
 ### Hi there 👋
 
