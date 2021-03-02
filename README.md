@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
 -------------
-💻 I'm currently learning : [JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+💻 I'm currently learning : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 <!--
