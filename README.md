@@ -1,9 +1,10 @@
 <div align="center">
 ![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/img/NBo.jpg)
-### Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
 </div>
 
-
+# Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
+-------------
+💻 I'm currently learning : [JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 <!--
