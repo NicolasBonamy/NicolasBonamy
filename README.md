@@ -1,10 +1,8 @@
-<div align="center">
 ![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/img/NBo.jpg)
-</div>
 
 # Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
 -------------
-💻 I'm currently learning : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+💻 I'm currently learning : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React](https://img.shields.io/badge/React-blue) ![Node](https://img.shields.io/badge/Node-green)
 
 
 <!--
