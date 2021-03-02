@@ -1,8 +1,10 @@
-
+<div align="center">
 ![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/img/NBo.jpg)
+### Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
+</div>
 
 
-### Hi there 👋
+
 
 <!--
 **NicolasBonamy/NicolasBonamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
