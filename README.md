@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/img/NBo.jpg)
+![Cover](https://github.com/NicolasBonamy/NicolasBonamy/blob/main/NBo.jpg)
 
 ## Hi there 👋 I'm Nicolas, a junior developper from Nantes 🇫🇷
 
