@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Nicolas, a JS developper from Nantes 🇫🇷
 
-💻 I'm currently using : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React](https://img.shields.io/badge/React-blue) ![Node](https://img.shields.io/badge/Node-green)
+💻 I'm currently using : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React](https://img.shields.io/badge/React-blue) ![Node](https://img.shields.io/badge/Node-green) ![Next](https://img.shields.io/badge/Next-black)
 
 ### Want to learn more about me?
 
