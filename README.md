@@ -10,4 +10,4 @@
 * [LinkedIn](https://www.linkedin.com/in/nicolas-bonamy/)
 * [My Portfolio](https://portfolio-nicolas-bonamy.netlify.app/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasBonamy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NicolasBonamy&rank_icon=github&show_icons=true&include_all_commits=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api?username=NicolasBonamy&rank_icon=github&show_icons=true&include_all_commits=true&theme=one_dark_pro)
